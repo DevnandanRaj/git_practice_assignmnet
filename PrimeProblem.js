@@ -6,10 +6,10 @@ function prime(Num){
       }
     }
     if(count==2){
-      console.log(Num,"is prime");
+      console.log(Num,"IT IS  Prime");
     }
     else{
-      console.log(Num,"is not prime");
+      console.log(Num,"IT IS NOT  Prime");
     }
   }
-  prime(2)
+  prime(13)
